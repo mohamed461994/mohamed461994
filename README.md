@@ -1,5 +1,10 @@
-### Hi there 👋
+# Hi, I'm Mohamed Shaban 💻
 
+
+### I'm A Software engineer: 
+- Sharing updates on <a href="https://www.linkedin.com/in/mohamed461994">LinkedIn</a> 💼
+- Learning in public on <a href="https://medium.com/@mohamed461994">Meduim</a> or <a href="https://www.researchgate.net/profile/Mohamed_Obaia">ResearchGate</a> 📹 ✍🏾
+- Active in software engineering communities ⚡🌱 <a href="https://stackoverflow.com/users/9678279/mohamed-shaban">StackoOerflow</a> or <a href="https://www.hackerrank.com/mohamed461994">HackerRank</a>
 <!--
 **mohamed461994/mohamed461994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
