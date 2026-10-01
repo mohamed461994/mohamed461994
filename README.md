@@ -2,7 +2,7 @@
 
 
 ### I'm A Software engineer: 
-- My website<a href="https://www.obaya.dev>obaya.dev</a> you can ask my AI representative and know more about my experience. 
+- My website<a href="https://www.obaya.dev>obaya.dev"> </a> you can ask my AI representative and know more about my experience. 
 - Sharing updates on <a href="https://www.linkedin.com/in/mohamed461994">LinkedIn</a> 💼
 - Learning in public on <a href="https://medium.com/@mohamed461994">Meduim</a> or <a href="https://www.researchgate.net/profile/Mohamed_Obaia">ResearchGate</a> 📹 ✍🏾
 - Active in software engineering communities ⚡🌱 <a href="https://stackoverflow.com/users/9678279/mohamed-shaban">StackoOerflow</a> or <a href="https://www.hackerrank.com/mohamed461994">HackerRank</a>
